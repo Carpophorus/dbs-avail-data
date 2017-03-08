@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "type": "Kabl A",
+      "amount": 120.5
+    },
+    {
+      "type": "Kabl F",
+      "amount": 150.2
+    },
+    {
+      "type": "Kabl C",
+      "amount": 180.8
+    },
+    {
+      "type": "Kabl E",
+      "amount": 320.5
+    },
+    {
+      "type": "Ruter A",
+      "amount": 7,
+      "codes": [
+          1, 2, 3, 4, 5, 6, 7
+        ]
+    },
+    {
+      "type": "Ruter B",
+      "amount": 3,
+      "codes": [
+          8, 9, 10
+        ]
+    },
+    {
+      "type": "Ruter D",
+      "amount": 4,
+      "codes": [
+          11, 12, 13, 14
+        ]
+    },
+    {
+      "type": "Kamera B",
+      "amount": 3,
+      "codes": [
+          15, 16, 17
+        ]
+    },
+    {
+      "type": "Kamera A",
+      "amount": 3,
+      "codes": [
+          18, 19, 20
+        ]
+    },
+    {
+      "type": "GPS A",
+      "amount": 6,
+      "codes": [
+          21, 22, 23, 24, 25, 26
+        ]
+    },
+    {
+      "type": "GPS D",
+      "amount": 6,
+      "codes": [
+          27, 28, 29, 30, 31, 32
+        ]
+    },
+    {
+      "type": "GPS B",
+      "amount": 5,
+      "codes": [
+          33, 34, 35, 36, 37
+        ]
+    },
+    {
+      "type": "GPS C",
+      "amount": 5,
+      "codes": [
+          38, 39, 40, 41, 42
+        ]
+    },
+    {
+      "type": "GPS E",
+      "amount": 5,
+      "codes": [
+          43, 44, 45, 46, 47
+        ]
+    }
+  ]
+}

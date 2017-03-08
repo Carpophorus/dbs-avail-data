@@ -1,0 +1,53 @@
+{
+  "locations": [
+    {
+      "client": "IDEA",
+      "address": "Bezimenka Štotebrigovića bb",
+      "status": 0,
+      "short": "Lorem Ipsum",
+      "long": "Lorem ipsum dolor sit amet, singulis iudicabit eos eu, mel albucius mediocrem qualisque ad. An veniam dolore mel. Utinam aeterno incorrupte no nam. Nulla legere epicuri et usu, ut utinam nonumes duo.\n\r\n\rFabellas deserunt conclusionemque te sit. Nulla patrioque at vix. Cu affert nonumes comprehensam ius, ad habeo mucius incorrupte pri. Oratio oporteat menandri ex pri.\n\r\n\rVeri dicam intellegebat eam in. Ubique omnium debitis ea pri, qui cu justo accumsan petentium. Pri in verear labitur legendos, te eos modo ullum erroribus. Sit cu bonorum invidunt, viris tritani convenire duo ne. In debet meliore veritus sed, in doctus praesent quo, eu mea vitae assueverit. Enim decore nemore ius in.\n\rDuo laudem urbanitas ei. Te vel dolor nostrud instructior, no eum similique deterruisset. Ex eum hinc appareat, ex sit nibh albucius. Putant phaedrum duo eu. Ei purto civibus urbanitas qui.\n\rFalli indoctum his ex, cum ut utroque intellegebat. Movet saepe noluisse eam ex, diam minim veritus mei ad, sit te impetus perpetua oportere. No sea nibh tollit signiferumque, quo choro prompta cu, utinam dissentias contentiones in sit. Putent qualisque cu quo, ut nisl facilisis cum. Ea usu pericula prodesset, pri inani accusam offendit at."
+    },
+    {
+      "client": "NIS",
+      "address": "Kragujevačkih Kiša 19a",
+      "status": 2,
+      "short": "Ipsum",
+      "long": "Lorem ipsum dolor sit amet, singulis iudicabit eos eu, mel albucius mediocrem qualisque ad. An veniam dolore mel. Utinam aeterno incorrupte no nam. Nulla legere epicuri et usu, ut utinam nonumes duo.\n\rFabellas deserunt conclusionemque te sit. Nulla patrioque at vix. Cu affert nonumes comprehensam ius, ad habeo mucius incorrupte pri. Oratio oporteat menandri ex pri."
+    },
+    {
+      "client": "Nova Budućnost",
+      "address": "Neznanog Junaka 33",
+      "status": 3,
+      "short": "Lorem Ipsum Dolor",
+      "long": "Falli indoctum his ex, cum ut utroque intellegebat. Movet saepe noluisse eam ex, diam minim veritus mei ad, sit te impetus perpetua oportere. No sea nibh tollit signiferumque, quo choro prompta cu, utinam dissentias contentiones in sit. Putent qualisque cu quo, ut nisl facilisis cum. Ea usu pericula prodesset, pri inani accusam offendit at."
+    },
+    {
+      "client": "Bugarinović",
+      "address": "Osmog marta 17",
+      "status": 4,
+      "short": "Dolor",
+      "long": "Lorem ipsum dolor sit amet, singulis iudicabit eos eu, mel albucius mediocrem qualisque ad. An veniam dolore mel. Utinam aeterno incorrupte no nam. Nulla legere epicuri et usu, ut utinam nonumes duo.\n\rFalli indoctum his ex, cum ut utroque intellegebat. Movet saepe noluisse eam ex, diam minim veritus mei ad, sit te impetus perpetua oportere. No sea nibh tollit signiferumque, quo choro prompta cu, utinam dissentias contentiones in sit. Putent qualisque cu quo, ut nisl facilisis cum. Ea usu pericula prodesset, pri inani accusam offendit at."
+    },
+    {
+      "client": "LaFarge",
+      "address": "Tajnih Agenata 99",
+      "status": 2,
+      "short": "Lorem",
+      "long": "Lorem ipsum dolor sit amet, singulis iudicabit eos eu, mel albucius mediocrem qualisque ad. An veniam dolore mel. Utinam aeterno incorrupte no nam. Nulla legere epicuri et usu, ut utinam nonumes duo.\n\rFabellas deserunt conclusionemque te sit. Nulla patrioque at vix."
+    },
+    {
+      "client": "DHL",
+      "address": "Brusa Vejna 9",
+      "status": 2,
+      "short": "Lorem Dolor",
+      "long": "Lorem ipsum dolor sit amet, singulis iudicabit eos eu, mel albucius mediocrem qualisque ad. An veniam dolore mel. Utinam aeterno incorrupte no nam. Nulla legere epicuri et usu, ut utinam nonumes duo."
+    },
+    {
+      "client": "McDonalds",
+      "address": "Terazije 23",
+      "status": 3,
+      "short": "Lorem Dolor Amet",
+      "long": "Lorem ipsum dolor sit amet, singulis iudicabit eos eu, mel albucius mediocrem qualisque ad."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "Kabl A": {
+    "int": false,
+    "id": "123A"
+  },
+  "Kabl B": {
+    "int": false,
+    "id": "123B"
+  },
+  "Kabl C": {
+    "int": false,
+    "id": "123C"
+  },
+  "Kabl D": {
+    "int": false,
+    "id": "123D"
+  },
+  "Kabl E": {
+    "int": false,
+    "id": "123E"
+  },
+  "Kabl F": {
+    "int": false,
+    "id": "123F"
+  },
+  "Kabl G": {
+    "int": false,
+    "id": "123G"
+  },
+
+  "Ruter A": {
+    "int": true,
+    "id": "456A"
+  },
+  "Ruter B": {
+    "int": true,
+    "id": "456B"
+  },
+  "Ruter C": {
+    "int": true,
+    "id": "456C"
+  },
+  "Ruter D": {
+    "int": true,
+    "id": "456D"
+  },
+  "Ruter E": {
+    "int": true,
+    "id": "456E"
+  },
+  "Ruter F": {
+    "int": true,
+    "id": "456F"
+  },
+  "Ruter G": {
+    "int": true,
+    "id": "456G"
+  },
+
+  "Kamera A": {
+    "int": true,
+    "id": "789A"
+  },
+  "Kamera B": {
+    "int": true,
+    "id": "789B"
+  },
+  "Kamera C": {
+    "int": true,
+    "id": "789C"
+  },
+  "Kamera D": {
+    "int": true,
+    "id": "789D"
+  },
+  "Kamera E": {
+    "int": true,
+    "id": "789E"
+  },
+  "Kamera F": {
+    "int": true,
+    "id": "789F"
+  },
+  "Kamera G": {
+    "int": true,
+    "id": "789G"
+  },
+
+  "GPS A": {
+    "int": true,
+    "id": "100A"
+  },
+  "GPS B": {
+    "int": true,
+    "id": "100B"
+  },
+  "GPS C": {
+    "int": true,
+    "id": "100C"
+  },
+  "GPS D": {
+    "int": true,
+    "id": "100D"
+  },
+  "GPS E": {
+    "int": true,
+    "id": "100E"
+  },
+  "GPS F": {
+    "int": true,
+    "id": "100F"
+  },
+  "GPS G": {
+    "int": true,
+    "id": "100G"
+  }
+}
