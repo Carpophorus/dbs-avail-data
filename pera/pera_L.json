@@ -24,7 +24,7 @@
     {
       "client": "Bugarinović",
       "address": "Osmog marta 17",
-      "status": 4,
+      "status": 5,
       "short": "Dolor",
       "long": "Lorem ipsum dolor sit amet, singulis iudicabit eos eu, mel albucius mediocrem qualisque ad. An veniam dolore mel. Utinam aeterno incorrupte no nam. Nulla legere epicuri et usu, ut utinam nonumes duo.\n\rFalli indoctum his ex, cum ut utroque intellegebat. Movet saepe noluisse eam ex, diam minim veritus mei ad, sit te impetus perpetua oportere. No sea nibh tollit signiferumque, quo choro prompta cu, utinam dissentias contentiones in sit. Putent qualisque cu quo, ut nisl facilisis cum. Ea usu pericula prodesset, pri inani accusam offendit at."
     },
@@ -48,6 +48,13 @@
       "status": 3,
       "short": "Lorem Dolor Amet",
       "long": "Lorem ipsum dolor sit amet, singulis iudicabit eos eu, mel albucius mediocrem qualisque ad."
+    },
+    {
+       "client": "McDonalds",
+       "address": "Terazije 23",
+       "status": 4,
+       "short": "Lorem Dolor Amet",
+       "long": "Lorem ipsum dolor sit amet, singulis iudicabit eos eu, mel albucius mediocrem qualisque ad."
     }
   ]
 }
